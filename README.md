@@ -1,5 +1,5 @@
 # 💫 About Me:
-User<br><br>    I am a student, exploring Vulnerability Assessment and Penetration Testing, <br>    🔭 I like food and earthy smell after rain and I like playing with new technologies<br>    🔭 Working on myself everyday<br>    🌱 On a constant battle with assembly language<br>    👯 If you like reverse engineering, lets get load up Ghidra , get high on caffeine and go all night <br>    👯 Open to collabarate on Cyber Security<br>    👨‍💻 All of my projects are available in my head, feel free to ask.
+   I am a student, exploring Vulnerability Assessment and Penetration Testing, <br>    🔭 I like food and earthy smell after rain and I like playing with new technologies<br>    🔭 Working on myself everyday<br>    🌱 On a constant battle with assembly language<br>    👯 If you like reverse engineering, lets get load up Ghidra , get high on caffeine and go all night <br>    👯 Open to collabarate on Cyber Security<br>    👨‍💻 All of my projects are available in my head, feel free to ask.
 
 
 ## 🌐 Socials:
