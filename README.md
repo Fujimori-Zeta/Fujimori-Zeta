@@ -1,47 +1,62 @@
+# Welcome to My Profile
+
 ## About Me
 
-I am a dedicated student with a strong focus on **Vulnerability Assessment and Penetration Testing (VAPT)**. My passion lies in cybersecurity, where I enjoy exploring new technologies and methodologies to enhance security practices.
+I am a dedicated student specializing in **Vulnerability Assessment and Penetration Testing (VAPT)**, with a deep passion for **Web Exploitation**, **OSINT (Open-Source Intelligence)**, **Capture The Flag (CTF)** competitions, and **Bug Bounty Hunting**. My focus is on exploring and implementing effective cybersecurity practices to protect digital assets.
 
-- 🌱 Currently, I am on a continuous journey of self-improvement, refining my skills and knowledge in cybersecurity.
-- 🛠️ I am actively working on mastering **Assembly language** and deepening my understanding of low-level programming.
-- 🌧️ I appreciate the simple things in life, like the earthy smell after rain and a good meal, which keep me grounded amidst the complexities of technology.
+- 🌱 I am on a continuous journey of self-improvement, constantly refining my skills and knowledge in the ever-evolving field of cybersecurity.
+- 🛠️ Actively working on mastering **Assembly language** and enhancing my understanding of low-level programming.
+- 🌐 Passionate about **Web Exploitation**, where I focus on identifying and mitigating vulnerabilities in web applications.
+- 🕵️ **OSINT Enthusiast**: Skilled in gathering and analyzing publicly available information to support security investigations and enhance threat intelligence.
+- 🎯 An avid **CTF player**, I enjoy tackling security challenges that hone my problem-solving skills in real-world scenarios.
+- 🐞 Engaged in **Bug Bounty Hunting**, responsibly disclosing vulnerabilities to help organizations improve their security.
 
 ## Professional Interests
 
-I am particularly interested in:
-- **Cybersecurity**: With a focus on VAPT, reverse engineering, and threat analysis.
-- **Collaboration**: I am open to working on projects related to cybersecurity, particularly those involving penetration testing and reverse engineering.
+My key areas of interest include:
+- **Cybersecurity**: With an emphasis on VAPT, reverse engineering, web exploitation, and threat intelligence.
+- **Web Exploitation**: Specializing in uncovering and mitigating web application vulnerabilities.
+- **OSINT**: Leveraging open-source data to conduct thorough investigations and enhance security assessments.
+- **CTF Competitions**: Actively participating in competitions to sharpen my skills in various cybersecurity domains.
+- **Bug Bounty Hunting**: Contributing to global security by identifying and responsibly disclosing vulnerabilities.
+- **Collaboration**: Open to working on cybersecurity projects, particularly in penetration testing, OSINT, web exploitation, and reverse engineering.
 
 ## Technical Skills
 
-- **Programming Languages**: Python, Assembly, C, Golang
-- **Tools & Technologies**: Ghidra, Wireshark, Metasploit, Burp Suite, Linux
-- **Cybersecurity Domains**: Vulnerability Assessment, Penetration Testing, Reverse Engineering, OSINT, Forensics
+- **Programming Languages**: Python, Assembly, C, GoLang
+- **Tools & Technologies**: Ghidra, Wireshark, Burp Suite, Metasploit, Nmap, Linux, Bash, Maltego, Recon-ng, Shodan
+- **Cybersecurity Domains**: Vulnerability Assessment, Penetration Testing, Web Exploitation, OSINT, Reverse Engineering
+- **Platforms**: Hack The Box, TryHackMe, CTFtime, HackerOne, Bugcrowd
 
 ## Current Focus
 
-I am currently honing my skills in:
-- **Assembly Language**: Understanding the intricacies of low-level programming.
-- **Reverse Engineering**: Using tools like Ghidra to analyze and understand binary code.
-- **OSINT**              : Using the power of search engines to find personal details.
+I am currently deepening my expertise in:
+- **Web Exploitation**: Advanced techniques for identifying and exploiting web application vulnerabilities.
+- **OSINT**: Developing strategies for effective information gathering and threat intelligence.
+- **Assembly Language**: Gaining comprehensive knowledge of low-level programming.
+- **Reverse Engineering**: Analyzing binary code with tools like Ghidra.
+- **CTF Competitions**: Continuously participating in CTFs to refine my cybersecurity skills.
 
 ## Projects
 
-Most of my projects are in active development and are part of my ongoing learning process. I am happy to discuss these in detail upon request.
+My projects are an integral part of my ongoing learning and development in cybersecurity. While many are in progress, I am open to discussing them in detail and exploring collaboration opportunities.
+
 
 ## Contact & Collaboration
 
-If you are interested in collaborating on cybersecurity projects or discussing any of my work, please feel free to reach out:
+I am always open to new opportunities for collaboration, whether it's in cybersecurity projects, OSINT investigations, or participating in CTFs. Feel free to reach out:
 
-- **Email**: OxZeta@protonmail.com
+- **Email**: oxzeta@protonmail.com
+
 
 ## Closing Note
 
-I am always open to new opportunities and challenges that can help me grow as a cybersecurity professional. Let's connect and explore how we can collaborate on innovative security solutions.
+Cybersecurity is more than just a field—it's a passion and a commitment to making the digital world a safer place. Let’s connect and explore how we can work together on innovative security solutions.
 
 ---
 
 *“Security is not a product, but a process.”*
+
 
 
 
