@@ -1,5 +1,48 @@
-# 💫 About Me:
-   I am a student, exploring Vulnerability Assessment and Penetration Testing, <br>    🔭 I like food and earthy smell after rain and I like playing with new technologies<br>    🔭 Working on myself everyday<br>    🌱 On a constant battle with assembly language<br>    👯 If you like reverse engineering, lets get load up Ghidra , get high on caffeine and go all night <br>    👯 Open to collabarate on Cyber Security<br>    👨‍💻 All of my projects are available in my head, feel free to ask.
+## About Me
+
+I am a dedicated student with a strong focus on **Vulnerability Assessment and Penetration Testing (VAPT)**. My passion lies in cybersecurity, where I enjoy exploring new technologies and methodologies to enhance security practices.
+
+- 🌱 Currently, I am on a continuous journey of self-improvement, refining my skills and knowledge in cybersecurity.
+- 🛠️ I am actively working on mastering **Assembly language** and deepening my understanding of low-level programming.
+- 🌧️ I appreciate the simple things in life, like the earthy smell after rain and a good meal, which keep me grounded amidst the complexities of technology.
+
+## Professional Interests
+
+I am particularly interested in:
+- **Cybersecurity**: With a focus on VAPT, reverse engineering, and threat analysis.
+- **Collaboration**: I am open to working on projects related to cybersecurity, particularly those involving penetration testing and reverse engineering.
+
+## Technical Skills
+
+- **Programming Languages**: Python, Assembly, C, Golang
+- **Tools & Technologies**: Ghidra, Wireshark, Metasploit, Burp Suite, Linux
+- **Cybersecurity Domains**: Vulnerability Assessment, Penetration Testing, Reverse Engineering, OSINT, Forensics
+
+## Current Focus
+
+I am currently honing my skills in:
+- **Assembly Language**: Understanding the intricacies of low-level programming.
+- **Reverse Engineering**: Using tools like Ghidra to analyze and understand binary code.
+- **OSINT**              : Using the power of search engines to find personal details.
+
+## Projects
+
+Most of my projects are in active development and are part of my ongoing learning process. I am happy to discuss these in detail upon request.
+
+## Contact & Collaboration
+
+If you are interested in collaborating on cybersecurity projects or discussing any of my work, please feel free to reach out:
+
+- **Email**: OxZeta@protonmail.com
+
+## Closing Note
+
+I am always open to new opportunities and challenges that can help me grow as a cybersecurity professional. Let's connect and explore how we can collaborate on innovative security solutions.
+
+---
+
+*“Security is not a product, but a process.”*
+
 
 
 ## 🌐 Socials:
