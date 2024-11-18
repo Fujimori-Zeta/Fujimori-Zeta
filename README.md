@@ -1,20 +1,24 @@
 # 💫 About Me:
-Cybersecurity Enthusiast | Aspiring Penetration Tester & Red Teamer
+**Cybersecurity Enthusiast | Aspiring Penetration Tester & Red Teamer**
+
 I am a university student with a focus on cybersecurity, specializing in penetration testing, red teaming, and offensive security. My goal is to build expertise in identifying vulnerabilities, simulating advanced cyber-attacks, and contributing to the improvement of digital security. I am committed to continuous learning and applying practical skills in real-world scenarios.
 
-Key Areas of Focus:
-Penetration Testing (Web, Network, System)
-Red Teaming & Adversary Simulation
-Vulnerability Assessment & Exploitation
-Security Tools: Burp Suite, Metasploit, Nmap, Wireshark and many more
-Scripting & Automation: Python, Bash, PowerShell
-Operating Systems: Linux (Kali, Ubuntu, Arch), Windows
-Currently Working On:
-Gaining practical experience through CTF challenges (Hack The Box, TryHackMe).
-Pursuing certifications including OSCP and eJPT to further my professional growth.
-Contributing to open-source security projects and research in offensive security.
-I am always open to opportunities for collaboration, mentorship, and skill development within the cybersecurity community.
+### Key Areas of Focus:
+- **Penetration Testing** (Web, Network, System)
+- **Red Teaming & Adversary Simulation**
+- **Vulnerability Assessment & Exploitation**
+- **Digital Forensics**
+- **Reverse Engineering**
+- **Security Tools**: Burp Suite, Metasploit, Nmap, Wireshark, and many more
+- **Scripting & Automation**: Python, Bash, PowerShell
+- **Operating Systems**: Linux, Windows
 
+### Currently Working On:
+- Gaining practical experience through CTF challenges (Hack The Box, TryHackMe).
+- Pursuing certifications including **OSCP** and **eJPT** to further my professional growth.
+- Contributing to open-source security projects and research in offensive security.
+
+I am always open to opportunities for collaboration, mentorship, and skill development within the cybersecurity community.
 
 ## 🌐 Socials:
 
